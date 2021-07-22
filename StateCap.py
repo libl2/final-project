@@ -71,7 +71,6 @@ STATES_CAPITALS = {
 
 def capital_of_Idaho():
     # Your code here
-    # i test if my code iz opdate
     pass
 
 def all_states():
