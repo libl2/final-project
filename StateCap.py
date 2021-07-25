@@ -1,4 +1,5 @@
-"""We have an existing dictionary that maps US states to their capitals.
+"""
+We have an existing dictionary that maps US states to their capitals.
 1. Print the state capital of Idaho
 2. Print all states.
 3. Print all capitals.
@@ -13,7 +14,7 @@ handle that?
 """
 import sys
 
-import pytest
+# import pytest
 
 STATES_CAPITALS = {
     'Alabama' : 'Montgomery',
@@ -70,15 +71,17 @@ STATES_CAPITALS = {
 
 
 def capital_of_Idaho():
-    # Your code here
+    print('tah capital of idaho is: ' + STATES_CAPITALS['Idaho'])
     pass
 
 def all_states():
-    # Your code here
+    for kay in STATES_CAPITALS.keys():
+        print (kay)
     pass
 
 def all_capitals():
-    # Your code here
+    for val in STATES_CAPITALS.values():
+        print(val)
     pass
 
 def states_capitals_string():
@@ -96,7 +99,7 @@ def test_state_to_capital():
     assert 'Cheyenne' == STATES_CAPITALS['Wyoming']
 
 
-def test_state_to_capital_unknown():
+"""def test_state_to_capital_unknown():
     with pytest.raises(KeyError):
         STATES_CAPITALS['']
 
@@ -116,3 +119,10 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
+"""
+
+capital_of_Idaho()
+print('\r all states: ')
+all_states()
+print('\r all capitals: ')
+all_capitals()
