@@ -85,12 +85,16 @@ def all_capitals():
     pass
 
 def states_capitals_string():
-    # Your code here
+    for s,c in STATES_CAPITALS.items():
+        print('state: '+s +'capitals: '+c)
     pass
 
 
 
 def get_state(capital):
+    for s,c in STATES_CAPITALS.items():
+        if(capital == c):
+            print('the state of capital '+c +' iz '+s)
     pass
 
 
@@ -126,3 +130,6 @@ print('\r all states: ')
 all_states()
 print('\r all capitals: ')
 all_capitals()
+
+states_capitals_string()
+get_state(input('select a capetal: '))
