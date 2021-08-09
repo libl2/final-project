@@ -1,0 +1,167 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\user\Documents\giteb\final-project\final-project> & C:/Users/user/AppData/Local/Programs/Python/Python39/python.exe c:/Users/user/Documents/giteb/final-project/final-project/StateCap.py
+tah capital of idaho is: Boise
+
+ all states: 
+Alabama      
+Alaska       
+Arizona      
+Arkansas     
+California   
+Colorado     
+Connecticut  
+Delaware     
+Florida      
+Georgia      
+Hawaii       
+Idaho        
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+
+ all capitals:
+Montgomery
+Juneau
+Phoenix
+Little Rock
+Sacramento
+Denver
+Hartford
+Dover
+Tallahassee
+Atlanta
+Honolulu
+Boise
+Springfield
+Indianapolis
+Des Moines
+Topeka
+Frankfort
+Baton Rouge
+Augusta
+Annapolis
+Boston
+Lansing
+Saint Paul
+Jackson
+Jefferson City
+Helena
+Lincoln
+Carson City
+Concord
+Trenton
+Santa Fe
+Albany
+Raleigh
+Bismarck
+Columbus
+Oklahoma City
+Salem
+Harrisburg
+Providence
+Columbia
+Pierre
+Nashville
+Austin
+Salt Lake City
+Montpelier
+Richmond
+Olympia
+Charleston
+Madison
+Cheyenne
+
+state: Alabama capitals: Montgomery
+state: Alaska capitals: Juneau
+state: Arizona capitals: Phoenix
+state: Arkansas capitals: Little Rock
+state: California capitals: Sacramento
+state: Colorado capitals: Denver
+state: Connecticut capitals: Hartford
+state: Delaware capitals: Dover
+state: Florida capitals: Tallahassee
+state: Georgia capitals: Atlanta
+state: Hawaii capitals: Honolulu
+state: Idaho capitals: Boise
+state: Illinois capitals: Springfield
+state: Indiana capitals: Indianapolis
+state: Iowa capitals: Des Moines
+state: Kansas capitals: Topeka
+state: Kentucky capitals: Frankfort
+state: Louisiana capitals: Baton Rouge
+state: Maine capitals: Augusta
+state: Maryland capitals: Annapolis
+state: Massachusetts capitals: Boston
+state: Michigan capitals: Lansing
+state: Minnesota capitals: Saint Paul
+state: Mississippi capitals: Jackson
+state: Missouri capitals: Jefferson City
+state: Montana capitals: Helena
+state: Nebraska capitals: Lincoln
+state: Nevada capitals: Carson City
+state: New Hampshire capitals: Concord
+state: New Jersey capitals: Trenton
+state: New Mexico capitals: Santa Fe
+state: New York capitals: Albany
+state: North Carolina capitals: Raleigh
+state: North Dakota capitals: Bismarck
+state: Ohio capitals: Columbus
+state: Oklahoma capitals: Oklahoma City
+state: Oregon capitals: Salem
+state: Pennsylvania capitals: Harrisburg
+state: Rhode Island capitals: Providence
+state: South Carolina capitals: Columbia
+state: South Dakota capitals: Pierre
+state: Tennessee capitals: Nashville
+state: Texas capitals: Austin
+state: Utah capitals: Salt Lake City
+state: Vermont capitals: Montpelier
+state: Virginia capitals: Richmond
+state: Washington capitals: Olympia
+state: West Virginia capitals: Charleston
+state: Wisconsin capitals: Madison
+state: Wyoming capitals: Cheyenne
+
+select a capetal: Pierre
+
+the state of capital Pierre iz South Dakota
+PS C:\Users\user\Documents\giteb\final-project\final-project> 
