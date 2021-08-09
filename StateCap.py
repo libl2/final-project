@@ -86,7 +86,7 @@ def all_capitals():
 
 def states_capitals_string():
     for s,c in STATES_CAPITALS.items():
-        print('state: '+s +'capitals: '+c)
+        print('state: '+s +' capitals: '+c)
     pass
 
 
